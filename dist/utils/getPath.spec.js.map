@@ -1,0 +1,1 @@
+{"version":3,"file":"getPath.spec.js","sourceRoot":"","sources":["../../src/utils/getPath.spec.ts"],"names":[],"mappings":";AAAA,0BAAsB,WAAW,CAAC,CAAA;AAElC,QAAQ,CAAC,SAAS,EAAE;IAClB,EAAE,CAAC,uCAAuC,EAAE;QAC1C,IAAI,GAAG,GAAG;YACR,EAAE,EAAE,GAAG;SACR,CAAC;QAEF,MAAM,CAAC,iBAAO,CAAC,GAAG,CAAC,CAAC,CAAA;IACtB,CAAC,CAAC,CAAA;AACJ,CAAC,CAAC,CAAA"}
